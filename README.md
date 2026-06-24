@@ -8,6 +8,7 @@ Simdilik icerik mukemmel ya da tamamlanmis degil. Ama yaptigim ilerlemeyi gorunu
 
 - [`baffle_WO_vanes_rapor.pdf`](./baffle_WO_vanes_rapor.pdf)
 - [`docs/baffle_raporu_hakkinda.md`](./docs/baffle_raporu_hakkinda.md)
+- [`docs/baffle_WO_vanes_rapor.md`](./docs/baffle_WO_vanes_rapor.md)
 
 ## Bu repo'nun amaci
 
