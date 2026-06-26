@@ -9,6 +9,7 @@ Simdilik icerik  tamamlanmis degil, yaptigim ilerlemeyi gorunur tutmak, arkadasl
 - [`baffle_WO_vanes_rapor.pdf`](./baffle_WO_vanes_rapor.pdf)
 - [`docs/baffle_raporu_hakkinda.md`](./docs/baffle_raporu_hakkinda.md)
 - [`docs/baffle_WO_vanes_rapor.md`](./docs/baffle_WO_vanes_rapor.md)
+- [`CMOS_APS_PPD_star_tracker.md`](./CMOS_APS_PPD_star_tracker.md)
 
 ## Bu repo'nun amaci
 
